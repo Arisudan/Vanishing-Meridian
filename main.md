@@ -1,8 +1,8 @@
 ---
 title: "The Vanishing Meridian"
-author: "[Insert Your Name]"
+author: "Arisudan"
 language: "en-US"
-rights: "Copyright © 2026 [Insert Your Name]. All rights reserved."
+rights: "Copyright © 2026 Arisudan. All rights reserved."
 ---
 
 # The Vanishing Meridian
